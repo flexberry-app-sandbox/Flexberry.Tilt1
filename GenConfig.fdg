@@ -21,7 +21,7 @@
       },
       "ApacheCordova": {
         "CordovaProject": false,
-        "BuildApp": false
+        "BuildApp": true
       }
     },
     "Backend": {
